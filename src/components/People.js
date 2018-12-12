@@ -8,7 +8,7 @@ class People extends Component {
         <p>People</p>
         <ul>
           <li>
-            <Link to="/Home">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/Form">Form</Link>

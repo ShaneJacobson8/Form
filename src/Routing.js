@@ -10,7 +10,6 @@ function Routing() {
     <Router>
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route exact path="/Home" component={Home} />
         <Route path="/Form" component={Form} />
         <Route path="/People" component={People} />
       </Switch>
